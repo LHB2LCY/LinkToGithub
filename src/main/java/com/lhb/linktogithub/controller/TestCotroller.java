@@ -13,7 +13,7 @@ public class TestCotroller {
     * */
     @GetMapping("/hello")
     public String sayHello(){
-        return "hello LiHaoBiao888888";
+        return "hello LiHaoBiao888888jenkins";
     }
 
 
